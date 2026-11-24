@@ -1,8 +1,8 @@
-# 🌌 Emporia E-Commerce Platform
+# 🌌 Django E-Commerce Platform
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg) ![License](https://img.shields.io/badge/license-MIT-green.svg) ![React](https://img.shields.io/badge/frontend-React_Vite-61DAFB.svg) ![Django](https://img.shields.io/badge/backend-Django_Rest_Framework-092E20.svg)
 
-**Emporia** is a next-generation, multi-vendor e-commerce platform designed with a premium "Deep Space" aesthetic. It features a robust Django REST Framework backend and a high-performance React frontend, offering a seamless experience for customers, sellers, and administrators alike.
+**django-ecommerce** is a next-generation, multi-vendor e-commerce platform designed with a premium "Deep Space" aesthetic. It features a robust Django REST Framework backend and a high-performance React frontend, offering a seamless experience for customers, sellers, and administrators alike.
 
 ---
 
@@ -62,8 +62,8 @@
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/shalosajan/emporia.git
-cd emporia
+git clone https://github.com/Luckystar0720/django-ecommerce.git
+cd django-ecommerce
 ```
 
 ### 2. Backend Setup
